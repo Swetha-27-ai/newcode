@@ -1,0 +1,3 @@
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.MVC\obj\Release\OnlinePlatformMVC.csprojResolveAssemblyReference.cache
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.MVC\obj\Release\miniecommerce.MVC.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.MVC\obj\Release\miniecommerce.MVC.pdb

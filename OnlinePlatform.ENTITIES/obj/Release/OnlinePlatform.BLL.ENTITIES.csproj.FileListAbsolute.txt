@@ -1,0 +1,10 @@
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\miniecommerce.ENTITIES.dll.config
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\miniecommerce.ENTITIES.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\miniecommerce.ENTITIES.pdb
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\EntityFramework.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\EntityFramework.xml
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\obj\Release\OnlinePlatform.BLL.ENTITIES.csprojResolveAssemblyReference.cache
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\obj\Release\miniecommerce.ENTITIES.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\obj\Release\miniecommerce.ENTITIES.pdb

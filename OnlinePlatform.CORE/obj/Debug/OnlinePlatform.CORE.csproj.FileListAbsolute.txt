@@ -1,0 +1,5 @@
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.CORE\bin\Debug\miniecommerce.CORE.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.CORE\bin\Debug\miniecommerce.CORE.pdb
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.CORE\obj\Debug\OnlinePlatform.CORE.csprojResolveAssemblyReference.cache
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.CORE\obj\Debug\miniecommerce.CORE.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.CORE\obj\Debug\miniecommerce.CORE.pdb

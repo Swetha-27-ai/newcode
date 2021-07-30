@@ -1,0 +1,6 @@
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Debug\miniecommerce.ENTITIES.dll.config
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Debug\miniecommerce.ENTITIES.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Debug\miniecommerce.ENTITIES.pdb
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\obj\Debug\miniecommerce.ENTITIES.csprojResolveAssemblyReference.cache
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\obj\Debug\miniecommerce.ENTITIES.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\obj\Debug\miniecommerce.ENTITIES.pdb

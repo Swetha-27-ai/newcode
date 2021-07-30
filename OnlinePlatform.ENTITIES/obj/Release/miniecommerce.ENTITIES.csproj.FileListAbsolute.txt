@@ -1,0 +1,5 @@
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\miniecommerce.ENTITIES.dll.config
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\miniecommerce.ENTITIES.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\bin\Release\miniecommerce.ENTITIES.pdb
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\obj\Release\miniecommerce.ENTITIES.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\miniecommerce.ENTITIES\obj\Release\miniecommerce.ENTITIES.pdb

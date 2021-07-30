@@ -1,0 +1,9 @@
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.ENTITIES\bin\Debug\miniecommerce.ENTITIES.dll.config
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.ENTITIES\bin\Debug\miniecommerce.ENTITIES.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.ENTITIES\bin\Debug\miniecommerce.ENTITIES.pdb
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.ENTITIES\bin\Debug\EntityFramework.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.ENTITIES\bin\Debug\EntityFramework.xml
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.ENTITIES\obj\Debug\miniecommerce.ENTITIES.dll
+C:\Users\Swetha.Gopireddy\Downloads\miniecommerce-master\OnlinePlatform.ENTITIES\obj\Debug\miniecommerce.ENTITIES.pdb
